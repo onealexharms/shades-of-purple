@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<% x = "white" %>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.2"
-     dxmlns:xlink="http://www.w3.org/1999/xlink" width="1800px" height="1800px" viewBox="0 0 1800 1800">
-  <rect x="0" y="0" height="1600" width="1600" fill="<%= x %>"/>
-  <circle cx="100" cy="100" r="100" fill="blue"/>
-  <circle cx="500" cy="500" r="100" fill="red"/>
+<% image_size_px = 1800%>
+<% number_of_questions = 36%>
+<% square_size = image_size_px / Math.sqrt(number_of_questions).to_i%>
+<% background_color = "#dddddd"%>
+<% red = "#ff0000"%>
+<% blue = "#0000ff"%>
+<% green = "#00ff00"%> 
+
+
+<svg xmlns = "http://www.w3.org/2000/svg"
+     version = "1.2"
+     dxmlns:xlink = "http://www.w3.org/1999/xlink"
+     width = "<%image_size_px.to_s + "px"%>"
+     height = "<%image_size_px.to_s + "px"%>"
+     viewBox = "0 0 1800 1800">
+  <rect x = "0" y="0" height="1600" width="1600" fill="<%= background_color %>"/>
+  <circle cx = "100" cy="100" r="100" fill="<%= blue %>"/>
+  <circle cx = "500" cy="500" r="100" fill="<%= red %>"/>
 </svg>
