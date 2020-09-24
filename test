@@ -1,0 +1,4 @@
+rm experiment.svg
+erb experiment.erb > experiment.svg
+cat experiment.svg
+kitty +kitten icat experiment.svg
