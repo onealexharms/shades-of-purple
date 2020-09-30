@@ -1,6 +1,6 @@
 # Shades of Purple
 
-Shades of Purple is, for now, primarily about the US politial spectrum. It's art, not science. It's not a poll.
+Shades of Purple is, for now, primarily about the U.S.political spectrum. It's art, not science. It's not a poll.
 
 These are hard times for us. A lot of us are scared. A lot of us are angry. Messages we get suggest that there are two kinds of people, and that if we can tell which kind someone is, we know whether they're a friend or an enemy.
 
@@ -16,7 +16,9 @@ These are challenging times, full of difficult, important decisions. We need to 
 
 ## How it might work
 
-The idea is to make a space where people can express their political selves in some way other than to stand on one side of the red/blue line or the other. There are 16 prompts, and you'll be asked to respond to each one. At the end, you'll see a spot-map calculated from your responses that's an image in shades of red and blue and purple. The app will also calculate a unique shade of purple based on those responses. 
+The idea is to make a space where people can express their political selves in some way other than to stand on one side of the red/blue line or the other. 
+
+There are 16 prompts, presented in random order. A person will be asked to respond to each one. At the end, there will be a spot-map calculated from the responses that's an image in shades of red and blue and purple. The app will also calculate a unique shade of purple based on those responses.
 
 It was hard to choose only 16 statements.
 
@@ -71,77 +73,77 @@ How high a priority would you like lawmakers who agree with you to make this iss
 
 ### The prompts (presented in random order (and random sub-order too) without numbers)
 1
-Transgender women are women.
+Transgender women are women.  
 Transgender women are not women.
 
 2
-Marriage is between one man and one woman.
+Marriage is between one man and one woman.  
 Two people should be able to marry regardless of gender.
 
 3
-We should respect and embrace a child's expressed gender identity.
+We should respect and embrace a child's expressed gender identity.  
 We should teach children to embrace their actual gender, which was determined when they were born.
 
 4
-We should use pronouns based on someone's sex, which is determined at birth.
+We should use pronouns based on someone's sex, which is determined at birth.  
 We should use whatever pronouns a person tells us are appropriate for them.
 
 5
-No one should be allowed to kill an unborn baby.
+No one should be allowed to kill an unborn baby.  
 A woman has or should have the right to choose whether to have an abortion or not.
 
 6
-Abortion is morally troubling.
+Abortion is morally troubling.  
 There is nothing at all wrong with abortion.
 
 4
-Police often use unnecessary or excessive force.
+Police often use unnecessary or excessive force.  
 Police almost always use only as much force as is needed to protect and serve.
 
 5
-Violence at protests is usually caused by protestors.
+Violence at protests is usually caused by protestors.  
 Violence at protests is usually caused by police or anti-protestors in support of police.
 
 6
-Police always or nearly always treat everyone equally.
+Police always or nearly always treat everyone equally.  
 Police are sometimes or often biased against people of color.
 
 7
-Our military should be as strong as or stronger than it is now, even though it's expensive.
+Our military should be as strong as or stronger than it is now, even though it's expensive.  
 Our military should be smaller and less expensive.
 
 8
-Humanity is in serious danger from climate change caused by humans.
+Humanity is in serious danger from climate change caused by humans.  
 Climate change claims or theories are false or exaggerated.
 
 9
-Changes recommended by environmentalists would have bad consequences and should be avoided.
+Changes recommended by environmentalists would have bad consequences and should be avoided.  
 Changes recommended by environmentalists are necessary, and we should act on them.
 
 10
-Keeping our borders open to anyone would not harm us.
+Keeping our borders open to anyone would not harm us.  
 Border and immigration control are necessary for our well-being.
 
 11
-Constitutional rights apply only to US citizens.
+Constitutional rights apply only to U.S. citizens.  
 Constitutional rights are human rights, and apply to everyone.
 
 12
-Rich or poor, Black or White, in the US you get a fair trial.
+Rich or poor, Black or White, in the US you get a fair trial.  
 Black people and poor people are less likely to get a fair trial.
 
 13
-If you want healthcare, you should pay for it.
+If you want healthcare, you should pay for it.  
 Everyone should have equal access to healthcare.
 
 14
-A 10% tax on wealth over 10 billion (10,000 million) dollars would be a good thing.
+A 10% tax on wealth over 10 billion (10,000 million) dollars would be a good thing.  
 Very rich people should be able to keep what they earn.
 
 15
-Nobody should have a gun, with the possible exception of police and such..
+Nobody should have a gun, with the possible exception of police and such.  
 Responsible gun ownership by ordinary citizens is a good thing.
 
 16
-China does not pose a serious threat to the U.S. or to humanity.
+China does not pose a serious threat to the U.S. or to humanity.  
 China poses a serious threat to the U.S. and to humanity.
