@@ -18,15 +18,15 @@ These are challenging times, full of difficult, important decisions. We need to 
 
 The idea is to make a space where people can express their political selves in some way other than to stand on one side of the red/blue line or the other. 
 
-There are 20 prompts, presented in random order. A person will be asked to respond to each one. At the end, there will be a spot-map calculated from the responses that's an image in shades of red and blue and purple. The app will also calculate a unique shade of purple based on those responses.
+There are 16 prompts, presented in random order. A person will be asked to respond to each one. At the end, there will be a spot-map calculated from the responses that's an image in shades of red and blue and purple. The app will also calculate a unique shade of purple based on those responses.
 
-It was hard to choose only 20 statements.
+It was hard to choose only 16 statements.
 
 ## Privacy
 
 It's important that the app not track people at all. No cookies, no login, nothing. We won't know who you are.
 
-When you finish the 20 prompts, you'll see a spot-map and a color swatch, both calculated from your responses. It's art, not science, so there's no guarantee it's objective, but the same algorithm will be applied to every set of responses, so in that way any two can be compared. 
+When you finish the 16 prompts, you'll see a spot-map and a color swatch, both calculated from your responses. It's art, not science, so there's no guarantee it's objective, but the same algorithm will be applied to every set of responses, so in that way any two can be compared. 
 
 You'll get a URL where you can find the specific images created from your responses whenever you want, without logging in or identifying yourself.
 
@@ -96,56 +96,54 @@ A woman has or should have the right to choose whether to have an abortion or no
 Abortion is morally troubling.  
 There is nothing at all wrong with abortion.
 
-7
+4
 Police often use unnecessary or excessive force.  
 Police almost always use only as much force as is needed to protect and serve.
 
-8
+5
 Violence at protests is usually caused by protestors.  
 Violence at protests is usually caused by police or anti-protestors in support of police.
 
-9
+6
 Police always or nearly always treat everyone equally.  
 Police are sometimes or often biased against people of color.
 
-10
+7
 Our military should be as strong as or stronger than it is now, even though it's expensive.  
 Our military should be smaller and less expensive.
 
-11
+8
 Humanity is in serious danger from climate change caused by humans.  
 Climate change claims or theories are false or exaggerated.
 
-12
+9
 Changes recommended by environmentalists would have bad consequences and should be avoided.  
 Changes recommended by environmentalists are necessary, and we should act on them.
 
-13
+10
 Keeping our borders open to anyone would not harm us.  
 Border and immigration control are necessary for our well-being.
 
-14
+11
 Constitutional rights apply only to U.S. citizens.  
 Constitutional rights are human rights, and apply to everyone.
 
-15
+12
 Rich or poor, Black or White, in the US you get a fair trial.  
 Black people and poor people are less likely to get a fair trial.
 
-16
+13
 If you want healthcare, you should pay for it.  
 Everyone should have equal access to healthcare.
 
-17
+14
 A 10% tax on wealth over 10 billion (10,000 million) dollars would be a good thing.  
 Very rich people should be able to keep what they earn.
 
-18
+15
 Nobody should have a gun, with the possible exception of police and such.  
 Responsible gun ownership by ordinary citizens is a good thing.
 
-19
+16
 China does not pose a serious threat to the U.S. or to humanity.  
 China poses a serious threat to the U.S. and to humanity.
-
-20 ??
