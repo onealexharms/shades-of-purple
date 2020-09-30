@@ -137,7 +137,7 @@ If you want healthcare, you should pay for it.
 Everyone should have equal access to healthcare.
 
 17
-A 10% tax on wealth over 10 billion (10,000 million) dollars would be a good thing.  
+A tax on wealth over 10 billion (10,000 million) dollars would be a good thing.  
 Very rich people should be able to keep what they earn.
 
 18
