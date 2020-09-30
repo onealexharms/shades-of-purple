@@ -4,7 +4,7 @@ Shades of Purple is, for now, primarily about the U.S.political spectrum. It's a
 
 These are hard times for us. A lot of us are scared. A lot of us are angry. Messages we get suggest that there are two kinds of people, and that if we can tell which kind someone is, we know whether they're a friend or an enemy.
 
-- But we are not all simple. We think most of us, however passionate, aren't completely aligned with the scary image of "the other side" that seems to be developing in the collective consciousness.
+But we are not all simple. We think most of us, however passionate, aren't completely aligned with the scary image of "the other side" that seems to be developing in the collective consciousness.
 
 - A mom in a progressive neighborhood volunteers at a community supper, supports Black Lives Matter, tries to understand and respect transgender people, and can't bring herself to accept abortion, which seems really not-ok to her.
 
