@@ -20,7 +20,9 @@ The idea is to make a space where people can express their political selves in s
 
 There are 20 prompts, presented in random order. A person will be asked to respond to each one. At the end, there will be a spot-map calculated from the responses that's an image in shades of red and blue and purple. The app will also calculate a unique shade of purple based on those responses.
 
-It was hard to choose only 20 statements.
+Here's how a spotmap might look. 
+![A bunch of translucent overlapping red and blue circles.](https://raw.githubusercontent.com/onealexharms/shades-of-purple/main/example.jpg)
+
 
 ## Privacy
 
