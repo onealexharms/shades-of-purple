@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <%
   image_size_px = 1800
-  number_of_questions = 36
-  square_size = image_size_px / Math.sqrt(number_of_questions).to_i
-  background_color = "rgb(230,230,230)"
-  red = "rgb(255, 0, 0)"
-  blue = "rgb(0, 0, 255)"
-  green = "rgb(0, 255, 0)"
-  position_strength_none = 0.25
-  position_strength_some = 0.5
-  position_strength_much = 0.75
-  position_strength_full = 1.0
+  background_color = "#eeeeee"
+  statement_choice = ["#cc0000","#0066cc"]
+  position_strength = [0.20, 0.40, 0.60]
+  importance = [115, 135, 150]
+
+  def circle(x, y, statement, strength, importance, _erbout)
+  %><circle cx = '<%= x %>' cy= '<%= y %>' r= '<%= importance %>' 
+             fill='<%= statement %>' fill-opacity = '<%= strength %>'/><%
+  end
 %>
 
 <svg xmlns = "http://www.w3.org/2000/svg"
@@ -20,6 +19,12 @@
      height = "<%image_size_px.to_s + "px"%>"
      viewBox = "0 0 1800 1800">
   <rect x = '0' y='0' height='1600' width='1600' fill='<%= background_color%>'/>
-  <circle cx = '100' cy='100' r='100' fill='<%= blue %>' fill-opacity = '<%= position_strength_some.to_s %>'/>
-  <circle cx = '500' cy='500' r='100' fill='<%= red %>' fill-opacity = '<%= position_strength_none.to_s %>'/>
+<%
+  x_y_coordinate = [150, 300, 450, 600, 750]
+  x_y_coordinate.each do | x |
+    x_y_coordinate.each do | y | 
+      circle x, y, statement_choice.sample, position_strength.sample, importance.sample, _erbout 
+    end
+  end
+%>
 </svg>
